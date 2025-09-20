@@ -1,0 +1,20 @@
+{
+  "name": "testroject",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  "compile:es5": "tsc --target ES5 --outDir compiled --rootDir src",
+  "compile:nocomments": "tsc --removeComments --outDir compiled --rootDir src",
+  "compile:es5nocomments": "tsc --target ES5 --removeComments --outDir compiled --rootDir src"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "clock": "^1.0.2"
+  }
+}

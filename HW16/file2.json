@@ -1,0 +1,15 @@
+[{"username": "Tom",
+"name": "Tom",
+"lastname": "sobakov",
+"email":"www@yandex.com"
+},
+{"username": "Jerrey",
+"name": "Jerrey",
+"lastname": "kotov",
+"email" : "aaa@gmail.com"
+},
+{"username":"sderev@gmail.com",
+"name": "Sveta",
+"lastname": "mush",
+"email": "qq@SFD.ru"
+}]
